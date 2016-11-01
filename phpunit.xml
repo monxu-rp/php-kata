@@ -27,19 +27,3 @@
         </testsuite>
     </testsuites>
 </phpunit>
-
-<!--<testsuites>-->
-<!--<testsuite name="PHP Skeleton Kata Test Suite">-->
-    <!--<directory>./src/Kata/Tests/</directory>-->
-<!--</testsuite>-->
-
-<!--<filter>-->
-    <!--<whitelist>-->
-        <!--<directory>./src/Kata/</directory>-->
-        <!--<exclude>-->
-            <!--<directory>./src/Kata/*/Tests</directory>-->
-        <!--</exclude>-->
-    <!--</whitelist>-->
-<!--</filter>-->
-
-<!--</testsuites>-->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1478027148">
-  <project timestamp="1478027148">
+<coverage generated="1478027258">
+  <project timestamp="1478027258">
     <package name="Kata">
       <file name="/Users/ramon.puiggene/Desktop/phpkata/php-kata/src/Kata/HelloWorld.php">
         <class name="HelloWorld" namespace="Kata">

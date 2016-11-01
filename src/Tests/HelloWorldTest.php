@@ -2,7 +2,6 @@
 
 namespace Kata\Tests;
 
-
 use Kata\HelloWorld;
 
 class HelloWorldTest extends \PHPUnit_Framework_TestCase
