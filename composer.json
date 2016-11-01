@@ -1,6 +1,6 @@
 {
-    "name": "kata/php",
-    "description": "PHP Kata skeleton",
+    "name": "php-kata",
+    "description": "Starting PHP Kata",
     "license": "MIT",
     "keywords": ["php","kata","TDD"],
     "homepage": "https://github.com/monxu-rp/php-kata",
