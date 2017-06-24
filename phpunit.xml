@@ -11,14 +11,14 @@
                 processUncoveredFilesFromWhitelist="true">
             <directory>./src/Kata/</directory>
             <exclude>
-                <directory>./Tests/</directory>
+                <directory>./tests/</directory>
             </exclude>
         </whitelist>
     </filter>
 
     <logging>
-        <log type="coverage-html" target="./TestsCoverage/"/>
-        <log type="coverage-clover" target="./TestsCoverage/Coverage.xml"/>
+        <log type="coverage-html" target="./testsCoverage/"/>
+        <log type="coverage-clover" target="./testsCoverage/Coverage.xml"/>
     </logging>
 
     <testsuites>
