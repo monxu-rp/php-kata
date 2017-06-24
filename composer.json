@@ -18,8 +18,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Kata\\": "src/Kata",
-            "Tests\\": "src/Tests"
+            "Katas\\": "src",
+            "Tests\\": "Tests"
 
         }
     },

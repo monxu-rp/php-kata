@@ -1,8 +1,8 @@
 <?php
 
-namespace Kata\Tests;
+namespace Tests\Kata;
 
-use Kata\HelloWorld;
+use Katas\Kata\HelloWorld;
 
 class HelloWorldTest extends \PHPUnit_Framework_TestCase
 {
