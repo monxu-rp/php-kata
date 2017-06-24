@@ -11,19 +11,19 @@
                 processUncoveredFilesFromWhitelist="true">
             <directory>./src/Kata/</directory>
             <exclude>
-                <directory>./src/Tests/</directory>
+                <directory>./Tests/</directory>
             </exclude>
         </whitelist>
     </filter>
 
     <logging>
-        <log type="coverage-html" target="./tests-coverage/"/>
-        <log type="coverage-clover" target="./tests-coverage/coverage.xml"/>
+        <log type="coverage-html" target="./Tests-coverage/"/>
+        <log type="coverage-clover" target="./Tests-coverage/coverage.xml"/>
     </logging>
 
     <testsuites>
         <testsuite name="PHP Kata Test">
-            <directory>./src/Tests/</directory>
+            <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
